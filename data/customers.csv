@@ -1,0 +1,101 @@
+customer_id,customer_name,age,gender,city,branch_code,account_type,opening_balance
+CUST1001,Aarav Bose,64,M,Hyderabad,BR004,Savings,34868
+CUST1002,Manish Agarwal,53,M,Delhi,BR002,Savings,68990
+CUST1003,Siddharth Singh,35,M,Kochi,BR012,Current,469898
+CUST1004,Pallavi Dubey,42,F,Bhopal,BR013,Savings,118785
+CUST1005,Reyansh Ghosh,43,M,Delhi,BR002,Savings,33353
+CUST1006,Pallavi Verma,26,F,Jaipur,BR009,Current,426922
+CUST1007,Vandana Pillai,66,F,Patna,BR014,Current,231629
+CUST1008,Dev Kumar,45,M,Delhi,BR002,Current,135907
+CUST1009,Tanvi Mishra,63,F,Kolkata,BR006,Savings,62921
+CUST1010,Pranav Pillai,50,M,Kochi,BR012,Savings,50834
+CUST1011,Gauri Pillai,35,F,Hyderabad,BR004,Current,88655
+CUST1012,Dhruv Rao,34,M,Delhi,BR002,Savings,90490
+CUST1013,Sneha Saxena,29,F,Ahmedabad,BR008,Credit Card,13679
+CUST1014,Shweta Desai,35,F,Lucknow,BR010,Savings,102895
+CUST1015,Diya Ghosh,64,F,Delhi,BR002,Savings,49938
+CUST1016,Amit Chopra,56,M,Ahmedabad,BR008,Savings,73906
+CUST1017,Dev Saxena,28,M,Chennai,BR005,Savings,97174
+CUST1018,Saanvi Malhotra,53,F,Kochi,BR012,Savings,77045
+CUST1019,Nikhil Gill,59,M,Chandigarh,BR011,Savings,141080
+CUST1020,Rahul Ghosh,59,M,Bhopal,BR013,Savings,8149
+CUST1021,Aadhya Reddy,24,F,Indore,BR015,Credit Card,12846
+CUST1022,Aditya Bose,70,M,Delhi,BR002,Savings,147645
+CUST1023,Dev Bhatt,59,M,Bengaluru,BR003,Credit Card,22290
+CUST1024,Kush Kapoor,46,M,Kochi,BR012,Current,356858
+CUST1025,Riya Saxena,25,F,Delhi,BR002,Savings,66903
+CUST1026,Manish Kapoor,66,M,Hyderabad,BR004,Savings,26610
+CUST1027,Kabir Patel,53,M,Patna,BR014,Credit Card,7321
+CUST1028,Sakshi Bhatt,36,F,Bengaluru,BR003,Savings,131907
+CUST1029,Pallavi Agarwal,43,F,Delhi,BR002,Savings,120997
+CUST1030,Riya Dubey,46,F,Chandigarh,BR011,Current,93556
+CUST1031,Pallavi Dubey,49,F,Hyderabad,BR004,Savings,148584
+CUST1032,Saanvi Mehta,56,F,Patna,BR014,Savings,124164
+CUST1033,Ishaan Kapoor,47,M,Delhi,BR002,Current,204389
+CUST1034,Aarohi Dubey,21,F,Mumbai,BR001,Savings,107345
+CUST1035,Gauri Banerjee,30,F,Chennai,BR005,Current,540311
+CUST1036,Aarohi Verma,24,F,Jaipur,BR009,Savings,90209
+CUST1037,Anjali Gill,26,F,Bengaluru,BR003,Credit Card,21640
+CUST1038,Pranav Patel,57,M,Hyderabad,BR004,Current,155710
+CUST1039,Pranav Patel,41,M,Lucknow,BR010,Savings,145044
+CUST1040,Dev Tiwari,63,M,Chennai,BR005,Savings,42308
+CUST1041,Riya Rao,50,F,Indore,BR015,Credit Card,5305
+CUST1042,Aditya Kapoor,25,M,Chennai,BR005,Savings,99490
+CUST1043,Pari Iyer,60,F,Jaipur,BR009,Savings,87303
+CUST1044,Dev Mishra,29,M,Indore,BR015,Savings,35154
+CUST1045,Om Reddy,59,M,Bengaluru,BR003,Current,325442
+CUST1046,Aarohi Khanna,37,F,Chennai,BR005,Current,542262
+CUST1047,Ishaan Agarwal,70,M,Mumbai,BR001,Current,379759
+CUST1048,Saanvi Bose,28,F,Kochi,BR012,Savings,10534
+CUST1049,Siddharth Verma,48,M,Lucknow,BR010,Current,185287
+CUST1050,Rohan Joshi,34,M,Bhopal,BR013,Credit Card,16724
+CUST1051,Dev Reddy,36,M,Jaipur,BR009,Savings,48515
+CUST1052,Om Agarwal,63,M,Kochi,BR012,Savings,115928
+CUST1053,Ayaan Iyer,51,M,Delhi,BR002,Current,70605
+CUST1054,Yash Gill,22,M,Chennai,BR005,Savings,66438
+CUST1055,Amit Rao,62,M,Delhi,BR002,Savings,100050
+CUST1056,Sakshi Mishra,32,F,Mumbai,BR001,Savings,76475
+CUST1057,Ananya Reddy,48,F,Kolkata,BR006,Savings,90228
+CUST1058,Amit Saxena,21,M,Chennai,BR005,Savings,122309
+CUST1059,Rahul Agarwal,63,M,Chandigarh,BR011,Savings,90291
+CUST1060,Anjali Nair,56,F,Kolkata,BR006,Current,340016
+CUST1061,Sanjay Khanna,57,M,Chandigarh,BR011,Credit Card,25169
+CUST1062,Pooja Mishra,58,F,Chennai,BR005,Savings,120692
+CUST1063,Riya Malhotra,68,F,Hyderabad,BR004,Savings,132042
+CUST1064,Rohan Menon,69,M,Lucknow,BR010,Current,127923
+CUST1065,Anika Banerjee,51,F,Mumbai,BR001,Savings,72184
+CUST1066,Ravi Agarwal,65,M,Lucknow,BR010,Credit Card,28538
+CUST1067,Sneha Kumar,70,F,Kochi,BR012,Savings,35941
+CUST1068,Sai Banerjee,56,M,Jaipur,BR009,Credit Card,6645
+CUST1069,Ravi Gupta,69,M,Chandigarh,BR011,Current,362711
+CUST1070,Vandana Gill,49,F,Indore,BR015,Savings,132433
+CUST1071,Yash Pillai,61,M,Bhopal,BR013,Savings,135034
+CUST1072,Riya Patel,41,F,Hyderabad,BR004,Current,382161
+CUST1073,Arjun Gupta,25,M,Kochi,BR012,Savings,64086
+CUST1074,Priya Kapoor,45,F,Mumbai,BR001,Savings,118138
+CUST1075,Rajat Saxena,43,M,Pune,BR007,Current,36182
+CUST1076,Swati Saxena,68,F,Pune,BR007,Credit Card,29494
+CUST1077,Vikram Kumar,42,M,Ahmedabad,BR008,Savings,109936
+CUST1078,Shweta Iyer,22,F,Indore,BR015,Current,590069
+CUST1079,Aditya Pillai,24,M,Patna,BR014,Savings,55639
+CUST1080,Priya Singh,38,F,Kolkata,BR006,Savings,107385
+CUST1081,Navya Mishra,24,F,Mumbai,BR001,Savings,149405
+CUST1082,Ishaan Patel,36,M,Chandigarh,BR011,Current,62537
+CUST1083,Pranav Gupta,57,M,Ahmedabad,BR008,Savings,37986
+CUST1084,Ritika Mehta,40,F,Bengaluru,BR003,Current,201720
+CUST1085,Kush Nair,66,M,Indore,BR015,Savings,111980
+CUST1086,Manish Tiwari,64,M,Hyderabad,BR004,Current,346232
+CUST1087,Dhruv Desai,63,M,Kolkata,BR006,Current,479186
+CUST1088,Nikhil Pillai,27,M,Patna,BR014,Savings,136503
+CUST1089,Tanvi Saxena,32,F,Kochi,BR012,Current,486641
+CUST1090,Nisha Banerjee,48,F,Bhopal,BR013,Credit Card,20232
+CUST1091,Priya Dubey,49,F,Indore,BR015,Savings,81119
+CUST1092,Divya Naik,41,F,Kolkata,BR006,Current,548317
+CUST1093,Aarohi Joshi,56,F,Kolkata,BR006,Current,319688
+CUST1094,Aditya Kumar,65,M,Ahmedabad,BR008,Current,281997
+CUST1095,Riya Banerjee,65,F,Chennai,BR005,Savings,114011
+CUST1096,Sakshi Desai,48,F,Jaipur,BR009,Savings,98113
+CUST1097,Neha Tiwari,28,F,Chennai,BR005,Savings,68434
+CUST1098,Karan Reddy,34,M,Bhopal,BR013,Current,230845
+CUST1099,Navya Bose,27,F,Bhopal,BR013,Savings,82186
+CUST1100,Anika Joshi,29,F,Mumbai,BR001,Savings,148020

@@ -1,0 +1,16 @@
+branch_code,branch_name,city,region
+BR001,NovaBank Mumbai Branch,Mumbai,West
+BR002,NovaBank Delhi Branch,Delhi,North
+BR003,NovaBank Bengaluru Branch,Bengaluru,South
+BR004,NovaBank Hyderabad Branch,Hyderabad,South
+BR005,NovaBank Chennai Branch,Chennai,South
+BR006,NovaBank Kolkata Branch,Kolkata,East
+BR007,NovaBank Pune Branch,Pune,West
+BR008,NovaBank Ahmedabad Branch,Ahmedabad,West
+BR009,NovaBank Jaipur Branch,Jaipur,North
+BR010,NovaBank Lucknow Branch,Lucknow,North
+BR011,NovaBank Chandigarh Branch,Chandigarh,North
+BR012,NovaBank Kochi Branch,Kochi,South
+BR013,NovaBank Bhopal Branch,Bhopal,Central
+BR014,NovaBank Patna Branch,Patna,East
+BR015,NovaBank Indore Branch,Indore,Central
